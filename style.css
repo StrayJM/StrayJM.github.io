@@ -151,6 +151,9 @@ a {
 }
 
 .texto-sobre h2 {
+    div.a {
+  text-align: center;
+}
     color: #fff;
     font-size: 75px;
     text-transform: capitalize;
